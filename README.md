@@ -35,7 +35,7 @@ This project is an Android Calculator application with multiple functionalities 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/AndroidCalculator.git
+   git clone https://github.com/mfurqanliaqat/android-calculator-java.git
    ```
 2. Open the project in Android Studio.
 3. Build the project and run it on an emulator or a physical device.

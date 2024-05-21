@@ -62,8 +62,8 @@ This project is an Android Calculator application with multiple functionalities 
 
 - `MainActivity.java`: The main activity handling the calculator logic.
 - `activity_main.xml`: Layout file for the portrait mode.
-- `activity_main_landscape.xml`: Layout file for the landscape mode.
-- `Calculator.java`: Class containing the logic for calculations.
+- `layout-land/activity_main.xml`: Layout file for the landscape mode.
+- `FCal.java`: Class containing the logic for calculations.
 
 ## Contributing
 
